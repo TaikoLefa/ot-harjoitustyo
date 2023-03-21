@@ -14,3 +14,5 @@ jossa tama muotoilu on nakyvissa.**
 [komentorivi vara.txt](https://github.com/TaikoLefa/ot-harjoitustyo/blob/main/laskarit/viikko1/komentorivi%20vara.txt)
 
 [gitlog.txt](https://github.com/TaikoLefa/ot-harjoitustyo/blob/main/laskarit/viikko1/gitlog.txt)
+
+Tehtavan 16 lisays.

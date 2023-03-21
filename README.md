@@ -16,3 +16,5 @@ jossa tama muotoilu on nakyvissa.**
 [gitlog.txt](https://github.com/TaikoLefa/ot-harjoitustyo/blob/main/laskarit/viikko1/gitlog.txt)
 
 Tehtavan 16 lisays.
+
+Tehtavan 17 eka lisays ja paikallinen commit.

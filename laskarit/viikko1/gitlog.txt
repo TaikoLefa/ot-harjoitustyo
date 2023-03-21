@@ -1,3 +1,5 @@
+Tehtävän 17 vaadittu muutos on tässä.
+
 Lefas-Mac:ot_viikko1 Lefa$ git log --stat | cat
 commit 23b93f9afa8eb5c86f506a359b64f19463adafa2
 Author: Leevi Raussi <leevi.raussi@helsinki.fi>

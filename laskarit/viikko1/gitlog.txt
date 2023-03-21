@@ -1,0 +1,126 @@
+Lefas-Mac:ot_viikko1 Lefa$ git log --stat | cat
+commit 23b93f9afa8eb5c86f506a359b64f19463adafa2
+Author: Leevi Raussi <leevi.raussi@helsinki.fi>
+Date:   Sat Mar 18 16:13:07 2023 +0200
+
+hommia
+
+tiedostoja/file2             | 0
+tiedostoja/{file1 => file22} | 0
+2 files changed, 0 insertions(+), 0 deletions(-)
+
+commit 2b7e2f1223804d1ffb8c12476611b271a6dc1c8d
+Author: Leevi Raussi <leevi.raussi@helsinki.fi>
+Date:   Sat Mar 18 16:07:46 2023 +0200
+
+tiedostoja lisatty
+
+tiedostoja/file1 | 0
+tiedostoja/file2 | 0
+tiedostoja/file3 | 0
+3 files changed, 0 insertions(+), 0 deletions(-)
+
+commit f44b36ddcf7d368efd5e2e3907cce17a793642e4
+Author: Leevi Raussi <leevi.raussi@helsinki.fi>
+Date:   Sat Mar 18 15:50:16 2023 +0200
+
+tekstin lisays
+
+eka.txt    | 4 ++++
+kolmas.txt | 5 +++++
+2 files changed, 9 insertions(+)
+
+commit bf024d06eef09716b71b9cd44f196d1ba2939421
+Author: Leevi Raussi <leevi.raussi@helsinki.fi>
+Date:   Sat Mar 18 15:48:06 2023 +0200
+
+uusi yritys
+
+tiedosto.txt | 537 
+-----------------------------------------------------------
+1 file changed, 537 deletions(-)
+
+commit a0bc5a2fa3566f3be317b0fc8898d18cb3ac1210
+Author: Leevi Raussi <leevi.raussi@helsinki.fi>
+Date:   Sat Mar 18 15:44:39 2023 +0200
+
+tiedosto.txt eka.txt:ksi
+
+eka.txt | 537 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+1 file changed, 537 insertions(+)
+
+commit ec1b186a77840fab375dc34ba70ac93e8b735fdb
+Author: Leevi Raussi <leevi.raussi@helsinki.fi>
+Date:   Sat Mar 18 15:42:56 2023 +0200
+
+poisto toinen.txt
+
+toinen.txt | 2 --
+1 file changed, 2 deletions(-)
+
+commit 73963ad44c16735bd02d7aaabdf1d47e666168cc
+Author: Leevi Raussi <leevi.raussi@helsinki.fi>
+Date:   Sat Mar 18 15:39:27 2023 +0200
+
+leikkaus
+
+tiedosto.txt | 16 +---------------
+1 file changed, 1 insertion(+), 15 deletions(-)
+
+commit 493574bca92ee6e8d9a435dc91ee46298d4dceb4
+Author: Leevi Raussi <leevi.raussi@helsinki.fi>
+Date:   Sat Mar 18 15:36:10 2023 +0200
+
+lorem
+
+tiedosto.txt | 548 
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+1 file changed, 548 insertions(+)
+
+commit 5a0b5384b7ffacca8f928e66c9a41f480e1c89cd
+Author: Leevi Raussi <leevi.raussi@helsinki.fi>
+Date:   Sat Mar 18 15:09:36 2023 +0200
+
+kansio ja tiedosto lisatty
+
+stuff/stuff.txt | 0
+1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit ae583ebb39550370def228ffc4597aacfcd0b7e2
+Author: Leevi Raussi <leevi.raussi@helsinki.fi>
+Date:   Sat Mar 18 15:05:20 2023 +0200
+
+tekstia lisatty
+
+kolmas.txt | 4 ++++
+toinen.txt | 2 ++
+2 files changed, 6 insertions(+)
+
+commit 74d232f195435bf1168140538b88f67ca93a7af1
+Author: Leevi Raussi <leevi.raussi@helsinki.fi>
+Date:   Sat Mar 18 15:00:37 2023 +0200
+
+kolmas.txt luotu
+
+kolmas.txt | 0
+1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit d2481a5dbb9409c3a472ebd68b7aca10c6ec563c
+Author: Leevi Raussi <leevi.raussi@helsinki.fi>
+Date:   Sat Mar 18 14:49:24 2023 +0200
+
+muutos ja lisays
+
+tiedosto.txt | 3 +++
+toinen.txt   | 0
+2 files changed, 3 insertions(+)
+
+commit 2fc87de0294f0273e6f668197531c7b343f8bef8
+Author: Leevi Raussi <leevi.raussi@helsinki.fi>
+Date:   Sat Mar 18 14:42:51 2023 +0200
+
+tiedosto.txt luotu
+
+tiedosto.txt | 0
+1 file changed, 0 insertions(+), 0 deletions(-)

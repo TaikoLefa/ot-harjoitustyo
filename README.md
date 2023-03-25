@@ -1,3 +1,7 @@
+# Viikko 2
+
+Jätän Ohjelmistotekniikka-kurssin kesken.
+
 # Viikko 1 Laskarit
 ## Huomioita
 Tehtavien teossa huomasin, etta **aakkoset** eivat jostain syysta toimi, 
